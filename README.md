@@ -5,7 +5,6 @@ A web application showcasing the inner workings of sorting algorithms.
 1. **LIVE DEMO**
    ```sh
    https://sortingwebapp.netlify.app/
-
 ## Implemented Algorithms
 
 1. **Bubble Sort**
